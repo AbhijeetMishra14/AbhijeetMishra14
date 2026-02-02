@@ -1,51 +1,70 @@
 ## 👋 Hi, I'm Abhijeet Mishra
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;Building+Personal+AI+JARVIS;Exploring+AI+and+Automation&center=true&width=600)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Web+Developer;Expert+in+Building+End-to-End+Web+Apps;Building+Personal+AI+JARVIS;Exploring+AI+and+Automation&center=true&width=700)
 
 ---
 
 ### 🧠 About Me
 
-- 🚀 Currently working on **Full Stack Development** and building a **personal AI assistant inspired by JARVIS**
-- 🤝 Open to collaborating on **full stack projects, AI-powered systems, and innovative tech ideas**
-- 🛠️ Looking for help with **advanced backend architecture, AI integrations, and system-level automation**
-- 🌱 Currently learning **Artificial Intelligence, system design, APIs, and scalable backend technologies**
-- 💬 Ask me about **full stack development, personal AI systems (JARVIS), and futuristic tech**
-- ⚡ Fun fact: *I’m building my own JARVIS while growing as a full stack developer* 🚀
+- 🚀 **Expert Full Stack Web Developer** with strong experience in building complete, scalable, production-ready web applications  
+- 🤖 Currently building a **personal AI assistant inspired by Tony Stark’s JARVIS**
+- 🤝 Open to collaborating on **full stack products, AI-driven applications, SaaS platforms, and innovative tech ideas**
+- 🛠️ Looking for collaboration and growth in **advanced backend systems, AI integrations, and large-scale architectures**
+- 🌱 Continuously learning **AI, system design, performance optimization, and modern backend technologies**
+- 💬 Ask me about **full stack development, system architecture, APIs, databases, AI assistants, and automation**
+- ⚡ Fun fact: *I enjoy designing systems from scratch and turning ideas into complete working products* 🚀
 
 ---
 
 ### 🤖 Personal AI Project — JARVIS
 
-I’m actively building a **personal AI assistant inspired by Tony Stark’s JARVIS**, focused on:
+I’m actively developing a **personal AI assistant inspired by Tony Stark’s JARVIS**, focused on:
 
-- Intelligent, calm, presence-based interaction  
-- Voice-first experience  
-- Automation & system awareness  
-- Clean, futuristic UI/UX  
+- Intelligent, calm, presence-based conversations  
+- Voice-first interaction & automation  
+- System awareness and decision assistance  
+- Clean, futuristic HUD-style UI/UX  
 
-This project reflects my interest in combining **AI, full stack engineering, and real-world automation**.
+This project combines my interests in **AI, full stack engineering, automation, and futuristic interface design**.
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Full Stack Skill Set
 
-**Frontend**
-- HTML, CSS, JavaScript, TypeScript  
-- React, Next.js  
+**Frontend (Expert)**
+- HTML5, CSS3, JavaScript (ES6+), TypeScript  
+- React.js, Next.js  
+- Responsive design, component-driven UI  
+- Performance optimization & accessibility  
 
-**Backend**
-- Node.js, Express  
-- REST APIs, Authentication  
+**Backend (Strong)**
+- Node.js, Express.js  
+- RESTful APIs, authentication & authorization  
+- Role-based access control  
+- Scalable backend architecture  
 
-**Database & Cloud**
+**Databases**
 - MongoDB, MySQL, SQLite  
-- Google Cloud, AWS, Firebase  
+- Schema design & query optimization  
 
-**Tools & Others**
+**Cloud & Deployment**
+- Google Cloud, AWS, Firebase  
+- Vercel, Render  
+- CI/CD pipelines  
+
+**DevOps & Tools**
 - Git, GitHub, GitHub Actions  
-- Postman, Docker (learning)  
+- Postman, API testing  
+- Docker (learning & experimenting)  
+
+**UI / UX & Design**
 - Figma, Canva  
+- Clean, minimal, futuristic UI design  
+
+**AI & Automation**
+- AI-powered assistants  
+- API-based AI integrations  
+- Workflow & system automation  
 
 ---
 
@@ -56,4 +75,3 @@ This project reflects my interest in combining **AI, full stack engineering, and
 ---
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C6FF,100:0072FF&height=2"/>
-
