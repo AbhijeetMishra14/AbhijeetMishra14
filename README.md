@@ -1,64 +1,96 @@
 <h1 align="center">👋 Hi, I'm Abhijeet Mishra</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Expert+Full+Stack+Web+Developer;Building+Personal+AI+JARVIS;AI+%7C+Automation+%7C+Scalable+Systems&center=true&width=720&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Expert+Full+Stack+Web+Developer;AI+%26+Automation+Engineer;Building+Personal+AI+JARVIS;Designing+Scalable+Systems&center=true&width=800&height=45">
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Expert-Full%20Stack%20Developer-blue?style=flat-square">
+  <img src="https://img.shields.io/badge/Role-Full%20Stack%20Developer-blue?style=flat-square">
+  <img src="https://img.shields.io/badge/Experience-Production%20Ready%20Apps-success?style=flat-square">
   <img src="https://img.shields.io/badge/Focus-AI%20%26%20Automation-purple?style=flat-square">
-  <img src="https://img.shields.io/badge/Project-JARVIS-success?style=flat-square">
+  <img src="https://img.shields.io/badge/Project-JARVIS-orange?style=flat-square">
 </p>
 
 ---
 
 ## 🧠 About Me
 
-- 🚀 **Expert Full Stack Web Developer** building scalable, production-grade applications
+- 🚀 **Expert Full Stack Web Developer** with hands-on experience building **scalable, production-ready applications**
 - 🤖 Creator of a **personal AI assistant inspired by Tony Stark’s JARVIS**
-- 🧩 Strong in **system design, performance optimization & backend architecture**
-- 🤝 Open to collaboration on **AI systems, automation & large-scale platforms**
-- ⚡ Fun fact: *I love turning raw ideas into complete working products*
+- 🧩 Strong focus on **system design, backend architecture, performance optimization**
+- 🤝 Open to collaboration on **AI systems, automation platforms, and advanced web apps**
+- 💬 Ask me about **Full Stack Development, APIs, Databases, AI Assistants & Automation**
+- ⚡ Fun fact: *I love designing systems from scratch and shipping real products*
 
 ---
 
 ## 🤖 Personal AI Project — JARVIS
 
-**JARVIS** is my ongoing personal AI assistant project focused on:
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AbhijeetMishra14/AbhijeetMishra14/main/assets/jarvis-ui.png" width="600" />
+</p>
 
-- 🧠 Intelligent, context-aware conversations  
-- 🎙️ Voice-first interaction & automation  
-- 🧩 System awareness & decision support  
-- 🎨 Clean, futuristic HUD-style UI  
+**JARVIS** is my ongoing personal AI assistant project, focused on:
+
+- 🧠 Context-aware, calm, intelligent conversations  
+- 🎙️ Voice-first interaction & command execution  
+- 🧩 System awareness & decision assistance  
+- 🎨 Clean, futuristic HUD-style UI/UX  
+
+> This project combines **AI + Full Stack Engineering + Automation + Futuristic Interface Design**
 
 ---
 
 ## 🛠️ Full Stack Skill Set
 
-**Frontend (Expert)**  
-HTML, CSS, JavaScript (ES6+), TypeScript, React, Next.js  
+### 🌐 Frontend (Expert)
+- HTML5, CSS3, JavaScript (ES6+), TypeScript  
+- React.js, Next.js  
+- Responsive UI, component-driven architecture  
+- Performance optimization & accessibility  
 
-**Backend (Strong)**  
-Node.js, Express, REST APIs, Auth, Scalable Architecture  
+### ⚙️ Backend (Strong)
+- Node.js, Express.js  
+- RESTful APIs & authentication  
+- Role-based access control  
+- Scalable backend architecture  
 
-**Databases**  
-MongoDB, MySQL, SQLite  
+### 🗄️ Databases
+- MongoDB, MySQL, SQLite  
+- Schema design & query optimization  
 
-**Cloud & DevOps**  
-AWS, Google Cloud, Firebase, Vercel, CI/CD  
+### ☁️ Cloud & Deployment
+- Google Cloud, AWS, Firebase  
+- Vercel, Render  
+- CI/CD pipelines  
 
-**AI & Automation**  
-AI Assistants, API-based AI, Workflow Automation  
+### 🧰 DevOps & Tools
+- Git, GitHub, GitHub Actions  
+- Postman, API testing  
+- Docker (learning & experimenting)  
+
+### 🎨 UI / UX
+- Figma, Canva  
+- Clean, minimal, futuristic UI design  
+
+### 🤖 AI & Automation
+- AI-powered assistants  
+- API-based AI integrations  
+- Workflow & system automation  
 
 ---
 
-## 📈 Contribution Graph (GitHub Native)
+## 📈 GitHub Activity & Graphs
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=AbhijeetMishra14&theme=github-dark)
+### 🔹 Contribution Activity Graph
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AbhijeetMishra14&theme=github-dark)
+
+### 🔹 GitHub Contribution Heatmap (Native)
+![GitHub Contributions](https://github.com/AbhijeetMishra14/AbhijeetMishra14/raw/main/profile-3d-contrib/profile-night-green.svg)
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Achievements
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=AbhijeetMishra14&theme=darkhub&no-frame=true&margin-w=10" />
@@ -66,19 +98,26 @@ AI Assistants, API-based AI, Workflow Automation
 
 ---
 
-## 🔥 Featured Projects
+## 🚀 Featured Projects
 
-- 🛍️ **AafnoShop** – Full stack e-commerce platform  
-- 🏥 **Mediizo** – Medical equipment web app  
-- 🌐 **Portfolio Website** – Modern responsive portfolio  
-- 🤖 **JARVIS** – Personal AI assistant  
+| Project | Description |
+|-------|------------|
+| 🛍️ **AafnoShop** | Full stack e-commerce platform |
+| 🏥 **Mediizo** | Medical equipment web application |
+| 🌐 **Portfolio** | Modern, responsive developer portfolio |
+| 🤖 **JARVIS** | Personal AI assistant (ongoing) |
 
 ---
 
-## 🧭 Philosophy
+## 🧭 Engineering Philosophy
 
-> *“Good software isn’t written. It’s engineered.”*  
-> I focus on **clarity, scalability, and long-term maintainability**.
+> *“Good software isn’t just written — it’s engineered.”*
+
+I focus on:
+- Clean architecture  
+- Scalability  
+- Maintainability  
+- Performance  
 
 ---
 
