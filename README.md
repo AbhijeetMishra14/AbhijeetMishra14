@@ -70,6 +70,6 @@ This project combines my interests in **AI, full stack engineering, automation, 
 
 ### 📊 GitHub Stats
 
-### 📊 GitHub Stats
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbhijeetMishra14&show_icons=true&theme=dark)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AbhijeetMishra14&theme=dark)
